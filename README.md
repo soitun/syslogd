@@ -1,0 +1,4 @@
+syslogd
+=======
+
+erlang syslog daemon
